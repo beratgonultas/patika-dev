@@ -10,4 +10,13 @@ Selection sort steps for [22,27,16,2,18,6]
 - [2,6,16,22,18,27]
 - [2,6,16,18,22,27]
 
+Time complexity for insertion sort is O(n^2) 
 
+Time complexity for selection sort is O(n^2)
+
+Insertion sort for [7,3,5,8,2,9,4,15,6]
+-[3,7,5,8,2,9,4,15,6]
+-[3,5,7,8,2,9,4,15,6]
+-[2,3,5,7,8,9,4,15,6]
+-[2,3,4,5,7,8,9,15,6]
+-[2,3,4,5,6,7,8,9,15]
